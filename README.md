@@ -10,7 +10,7 @@ So far we have (not including the 3 individual repositories):
 1) Lemans (1982, Commodore)
 <img width="320" height="200" alt="lemans_02" src="https://github.com/user-attachments/assets/7cc250b1-ba49-4231-a4f3-ee65c94552bf" />
 
-I have since found that Ricardo Quesada (https://github.com/ricardoquesada/c64-lemans) has done a much better job of this than I have and has added joystick support.
+I have since found that Ricardo Quesada (https://github.com/ricardoquesada/c64-lemans) has done a much better job of this than I have adding more comments, and has added joystick support.
 
 
  
