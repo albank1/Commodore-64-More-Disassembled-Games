@@ -24,6 +24,13 @@ Robin from the 8bit Show and Tell YouTube channel has done a great dive into thi
 
 <img width="320" height="200" alt="avenger_(commodore)_01" src="https://github.com/user-attachments/assets/b116dd13-c054-4455-942a-4c8825dc150f" /><img width="320" height="200" alt="avenger_(commodore)_02" src="https://github.com/user-attachments/assets/9db65989-12a7-49e7-83a7-3233471c14f9" />
 
+4) Jupiter Lander (1982, Commodore)
+
+<img width="320" height="200" alt="jupiter_lander_01" src="https://github.com/user-attachments/assets/e3eb6c2e-1ab6-480a-a654-784895a65a58" />
+<img width="320" height="200" alt="jupiter_lander_03" src="https://github.com/user-attachments/assets/9332b642-5292-438b-832f-30fcd234fb1e" />
+
+
+
 
 
 
