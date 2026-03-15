@@ -1,6 +1,8 @@
 ;====================================================================
 ; Jupiter Lander (1982, Commodore)
 ;
+; $10 and $11 are landing speed and $12/$13 are fuel level
+; WE55 is where there is a check for a safe landing
 ; Source in Dasm format
 ; To compile:
 ;  a) dasm JupiterLander.asm -oJupiterLander.bin -f3
@@ -81,9 +83,9 @@ WE093:
       sta  $D021                        ; Background 0 color
       sta  $D020                        ; Border color
       lda  #$00                         
-      sta  $2B                          ; Pointer: BASIC starting programs
-      lda  #$FF                         
-      sta  $12                          
+      sta  $2B                          
+      lda  #$FF                         ; inital fuel level
+      sta  $12                          ; 16 bit value in $12 and $13
       sta  $13                          
       lda  #$00                         
       sta  $15                          
@@ -332,7 +334,7 @@ WE2E7:
       sta  $0C                          
       lda  $12                          
       sec                               
-      sbc  #$1E                         
+      sbc  #$1E                         ; Reduce fuel level by $1E
       sta  $12                          
       lda  $13                          
       sbc  #$00                         
@@ -371,7 +373,7 @@ WE328:
       sta  $27                          
       lda  $12                          
       sec                               
-      sbc  $27                          
+      sbc  $27                          ; Reduce fuel level by $27
       sta  $12                          
       lda  $13                          
       sbc  #$00                         
@@ -536,7 +538,7 @@ WE44B:
       lda  #$81                         
       jsr  WF25D                        
       lda  #$07                         
-      sta  $2A                          ; Real product
+      sta  $2A
 WE473:
       inc  $07F9                        
       lda  $2A                          
@@ -659,7 +661,7 @@ WE549:
 WE553:
       .byte $47, $41, $4D, $45, $00, $4F, $56, $45 
       .byte $52                         
-WE55C:
+WE55C:					; checks for safe landing
       lda  #$00                         
       sta  $D404                        ; Voice 1: Control registers
       sta  $D40B                        ; Voice 2: Control registers
@@ -671,7 +673,7 @@ WE55C:
       bmi  WE57D                        
       bne  WE57A                        
       lda  $10                          
-      cmp  #$48                         
+      cmp  #$48                         ; Safe landing velocity cmp #$48 
       bcc  WE57D                        
 WE57A:
       jmp  WE624                        
@@ -2334,5 +2336,4 @@ WF43E:
       .byte $AA, $AA, $AA, $AA, $AA, $AA, $AA, $AA 
       .byte $AA, $AA, $AA, $AA, $AA, $AA, $AA, $AA 
       .byte $AA, $AA, $AA, $AA, $37, $E0, $37, $E0 
-      .byte $39, $EB                    
-
+      .byte $39, $EB
