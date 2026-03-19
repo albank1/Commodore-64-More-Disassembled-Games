@@ -30,6 +30,14 @@ Robin from the 8bit Show and Tell YouTube channel has done a great dive into thi
 <img width="320" height="200" alt="jupiter_lander_03" src="https://github.com/user-attachments/assets/9332b642-5292-438b-832f-30fcd234fb1e" />
 
 
+5) Dig Dug (1983, Atari)
+
+<img width="320" height="200" alt="dig_dug_01" src="https://github.com/user-attachments/assets/2f05a84b-a035-4670-bd49-b51f977eac00" />
+<img width="320" height="200" alt="dig_dug_02" src="https://github.com/user-attachments/assets/b703f447-8ef3-48f1-aac3-0a3bd76bbc47" />
+
+
+
+
 
 
 
