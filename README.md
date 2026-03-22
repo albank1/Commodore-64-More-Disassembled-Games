@@ -26,17 +26,19 @@ Robin from the 8bit Show and Tell YouTube channel has done a great dive into thi
 
 4) Jupiter Lander (1982, Commodore)
 
-<img width="320" height="200" alt="jupiter_lander_01" src="https://github.com/user-attachments/assets/e3eb6c2e-1ab6-480a-a654-784895a65a58" />
-<img width="320" height="200" alt="jupiter_lander_03" src="https://github.com/user-attachments/assets/9332b642-5292-438b-832f-30fcd234fb1e" />
+<img width="320" height="200" alt="jupiter_lander_01" src="https://github.com/user-attachments/assets/e3eb6c2e-1ab6-480a-a654-784895a65a58" /><img width="320" height="200" alt="jupiter_lander_03" src="https://github.com/user-attachments/assets/9332b642-5292-438b-832f-30fcd234fb1e" />
 
 5) Dig Dug (1983, Atari)
 
-<img width="320" height="200" alt="dig_dug_01" src="https://github.com/user-attachments/assets/2f05a84b-a035-4670-bd49-b51f977eac00" />
-<img width="320" height="200" alt="dig_dug_02" src="https://github.com/user-attachments/assets/b703f447-8ef3-48f1-aac3-0a3bd76bbc47" />
+<img width="320" height="200" alt="dig_dug_01" src="https://github.com/user-attachments/assets/2f05a84b-a035-4670-bd49-b51f977eac00" /><img width="320" height="200" alt="dig_dug_02" src="https://github.com/user-attachments/assets/b703f447-8ef3-48f1-aac3-0a3bd76bbc47" />
 
 6) Omega Race (1982, Commodore)
-<img width="320" height="200" alt="omega_race_01" src="https://github.com/user-attachments/assets/2b89488c-8500-442e-b068-95892f0a2725" />
-<img width="320" height="200" alt="omega_race_02" src="https://github.com/user-attachments/assets/c80b5846-7037-46c1-a30e-f7aab37cfe91" />
+
+<img width="320" height="200" alt="omega_race_01" src="https://github.com/user-attachments/assets/2b89488c-8500-442e-b068-95892f0a2725" /><img width="320" height="200" alt="omega_race_02" src="https://github.com/user-attachments/assets/c80b5846-7037-46c1-a30e-f7aab37cfe91" />
+
+7) BC's Quest for Tires (1983)(Sierra Online)
+
+<img width="320" height="200" alt="bcs_quest_for_tires_02" src="https://github.com/user-attachments/assets/f4bf21a3-70a9-42e8-a071-fb9964612a0c" /><img width="320" height="200" alt="bcs_quest_for_tires_03" src="https://github.com/user-attachments/assets/bd0d9205-be6e-4d44-85e0-849a2adfa57a" />
 
 
 
