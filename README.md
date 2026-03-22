@@ -36,7 +36,7 @@ Robin from the 8bit Show and Tell YouTube channel has done a great dive into thi
 
 <img width="320" height="200" alt="omega_race_01" src="https://github.com/user-attachments/assets/2b89488c-8500-442e-b068-95892f0a2725" /><img width="320" height="200" alt="omega_race_02" src="https://github.com/user-attachments/assets/c80b5846-7037-46c1-a30e-f7aab37cfe91" />
 
-7) BC's Quest for Tires (1983)(Sierra Online)
+7) BC's Quest for Tires (1983, Sierra Online)
 
 <img width="320" height="200" alt="bcs_quest_for_tires_02" src="https://github.com/user-attachments/assets/f4bf21a3-70a9-42e8-a071-fb9964612a0c" /><img width="320" height="200" alt="bcs_quest_for_tires_03" src="https://github.com/user-attachments/assets/bd0d9205-be6e-4d44-85e0-849a2adfa57a" />
 
