@@ -44,6 +44,8 @@ Robin from the 8bit Show and Tell YouTube channel has done a great dive into thi
 
 <img width="320" height="200" alt="stellar_dodger_01" src="https://github.com/user-attachments/assets/9da1cb5e-a5b7-4a21-aaf3-039ba23bfe24" /><img width="320" height="200" alt="stellar_dodger_02" src="https://github.com/user-attachments/assets/58117efd-f754-433f-a1ce-5da786d90da1" />
 
+9) Agent USA (1984, Scholastic)
+<img width="320" height="200" alt="agent_usa_01" src="https://github.com/user-attachments/assets/2d0751c7-6b60-4431-9850-71ca76982376" /><img width="320" height="200" alt="agent_usa_03" src="https://github.com/user-attachments/assets/f89cc638-85a1-4c81-a78c-569509c09622" />
 
 
 
